@@ -1,3 +1,3 @@
 export default {
-    apikey: "a093bf14"
+    apikey: "" //INSERT YOUR OWN API KEY HERE
 }
